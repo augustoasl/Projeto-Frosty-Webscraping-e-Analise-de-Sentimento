@@ -3,3 +3,6 @@ Este projeto realiza a coleta, tratamento e análise de dados sobre a percepçã
 
 ### Link do Dashboard da Análise: 
 https://app.powerbi.com/view?r=eyJrIjoiYmE5MGIyN2MtNjMyOS00ZjlkLWFmYzEtOTE0MjY3N2Y2ZDZhIiwidCI6ImVhMDRkNzUyLTEwYzItNGE5OC05NTNhLTFkMmZiOTA0ODJhMCJ9
+
+### Link da Publicação da Análise: 
+https://medium.com/@augustoasl77/an%C3%A1lise-de-impress%C3%B5es-sobre-sorvetes-frosty-c694d4b15f34

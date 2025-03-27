@@ -1,0 +1,1 @@
+# Projeto-Frosty-Webscraping-e-Analise-de-Sentimento
